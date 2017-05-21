@@ -10,8 +10,8 @@ module.exports = function(router) {
     //Start Sendgrid Configuration Settings (Use only if using sendgrid)
     // var options = {
     //     auth: {
-    //         api_user: 'brentw263', //Sendgrid username
-	//    api_key: 'akba2235' //Sendgrid password
+    //         api_user: '********', //Sendgrid username
+	//    api_key: '*******' //Sendgrid password
     //     }
     // };
     //nodemailer.createTransport(sgTransport(options)); // Use if using sendgrid configuration
